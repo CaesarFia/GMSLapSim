@@ -1,3 +1,3 @@
-
+from dataclasses import dataclass
 
 
